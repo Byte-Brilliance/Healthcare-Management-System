@@ -1,2 +1,3 @@
 # Healthcare-Management-System
-Multi-Role Healthcare Management Dashboard
+Multi-Role Healthcare Management Dashboard.
+Author - Byte Brilliance
